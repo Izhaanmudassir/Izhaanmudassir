@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Izhaan Mudassir</h1>
 <h3 align="center">I am a Full-Stack Developer with 3+ years of experience</h3>
 
-- 🔭 I’m currently working on [WebAiry](webairy.com)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=izhaanmudassir&label=Profile%20views&color=0e75b6&style=flat" alt="izhaanmudassir" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=izhaanmudassir" alt="izhaanmudassir" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭 I’m currently working on [Marko](www.marko.marketing)
 
 - 👨‍💻 All of my projects are available at [izhaan-mudassir.web.app](izhaan-mudassir.web.app)
 
@@ -18,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=izhaanmudassir&show_icons=true&locale=en&layout=compact" alt="izhaanmudassir" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=izhaanmudassir&show_icons=true&locale=en" alt="izhaanmudassir" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=izhaanmudassir&" alt="izhaanmudassir" /></p>
