@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Izhaan Mudassir</h1>
-<h3 align="center">I am a Full-Stack Developer with 3+ years of experience</h3>
+<h3 align="center">I am a Full-Stack Developer with 4+ years of experience</h3>
 
 - 🔭 I’m currently working on [Marko](https://www.marko.marketing/)
 
@@ -9,7 +9,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/izhaan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/izhaan/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/izhaan/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+  </a>
+  <a href="https://www.fiverr.com/izhaanmudassir" target="_blank">
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="Fiverr" height="40" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
