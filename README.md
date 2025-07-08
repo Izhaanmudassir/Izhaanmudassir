@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Izhaan Mudassir</h1>
 <h3 align="center">I am a Full-Stack Developer with 3+ years of experience</h3>
 
-- 🔭 I’m currently working on [Marko](www.marko.marketing)
+- 🔭 I’m currently working on [Marko](https://www.marko.marketing/)
 
 - 👨‍💻 All of my projects are available at [izhaan-mudassir.web.app](izhaan-mudassir.web.app)
 
